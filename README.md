@@ -65,6 +65,3 @@ Email: peggylu@cs.ccu.edu.tw
 ## 📩 Teaching Assistants
 - **David Lee** (TA for Problem 1) – david20010603@alum.ccu.edu.tw  
 - **Oscar Wu** (TA for Problem 2) – oscarwu217@alum.ccu.edu.tw
-
-## 📅 Deadline
-**2025/04/10 – 23:59**
