@@ -16,20 +16,12 @@ This repository contains the solution to Homework 1 of the "Introduction to Mach
 │   ├── main.py                     # Script to run all parts
 │   ├── x.txt                       # Input dataset
 │   ├── y1.txt                      # Output dataset
-│   └── __pycache__/                # Python cache files
-│       ├── a.cpython-312.pyc
-│       ├── b.cpython-312.pyc
-│       └── c.cpython-312.pyc
 ├── Hw1-2/                          # Problem 2: Clustering
 │   ├── a.py                        # Part (a): K-means with centroid init A
 │   ├── b.py                        # Part (b): K-means with centroid init B
 │   ├── c.py                        # Part (c): Non-uniform binary split
 │   ├── main.py                     # Script to run all clustering parts
 │   ├── Dataset_2.txt               # Input dataset
-│   └── __pycache__/                # Python cache files
-│       ├── a.cpython-312.pyc
-│       ├── b.cpython-312.pyc
-│       └── c.cpython-312.pyc
 ├── Hw1-2_TA_explanation.pptx       # Optional TA explanation slide
 ```
 
