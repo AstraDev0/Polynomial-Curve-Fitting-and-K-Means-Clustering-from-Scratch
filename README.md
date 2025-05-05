@@ -1,4 +1,4 @@
-```markdown
+
 # ML-HW1: Polynomial Curve Fitting and K-Means Clustering from Scratch
 
 This repository contains the solution to Homework 1 of the "Introduction to Machine Learning" course at National Chung Cheng University, instructed by Prof. Peggy Lu.
@@ -6,27 +6,25 @@ This repository contains the solution to Homework 1 of the "Introduction to Mach
 ## 📁 Directory Structure
 
 ```
-
-HW1\_StudentID\_Name/
+HW1_StudentID_Name/
 │
-├── HW1\_StudentID\_Name.pdf         # Report with problem statements and detailed solutions
+├── HW1_StudentID_Name.pdf         # Report with problem statements and detailed solutions
 │
 ├── Hw1-1/                         # Problem 1: Polynomial Curve Fitting
-│   ├── polynomial\_fit.py          # Main script for polynomial fitting
-│   ├── plot\_m2.png                # Plot for m=2 fit
-│   ├── plot\_m\_best.png            # Plot for best-fit polynomial
-│   ├── plot\_m3\_m8\_errors.png      # Comparison of errors for m=3 and m=8
+│   ├── polynomial_fit.py          # Main script for polynomial fitting
+│   ├── plot_m2.png                # Plot for m=2 fit
+│   ├── plot_m_best.png            # Plot for best-fit polynomial
+│   ├── plot_m3_m8_errors.png      # Comparison of errors for m=3 and m=8
 │   └── ...
 │
 ├── Hw1-2/                         # Problem 2: Clustering Algorithms
-│   ├── kmeans\_case\_a.py           # K-means with specified initialization set A
-│   ├── kmeans\_case\_b.py           # K-means with initialization set B
-│   ├── binary\_split.py            # Non-Uniform Binary Split clustering
-│   ├── plot\_case\_a.png            # Clustering result for (a)
-│   ├── plot\_case\_b.png            # Clustering result for (b)
-│   ├── plot\_binary\_split.png      # Clustering result for (c)
+│   ├── kmeans_case_a.py           # K-means with specified initialization set A
+│   ├── kmeans_case_b.py           # K-means with initialization set B
+│   ├── binary_split.py            # Non-Uniform Binary Split clustering
+│   ├── plot_case_a.png            # Clustering result for (a)
+│   ├── plot_case_b.png            # Clustering result for (b)
+│   ├── plot_binary_split.png      # Clustering result for (c)
 │   └── ...
-
 ```
 
 ## 🧪 Problem 1: Polynomial Curve Fitting
@@ -70,6 +68,3 @@ Email: peggylu@cs.ccu.edu.tw
 
 ## 📅 Deadline
 **2025/04/10 – 23:59**
-
----
-
